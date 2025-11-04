@@ -1,0 +1,7 @@
+Begin Object Class=/Script/Paper2D.PaperFlipbook Name="spriteshit__Sprite_Sheet___Foward_Attack"
+   FramesPerSecond=6.000000
+   KeyFrames(0)=(Sprite="/Script/Paper2D.PaperSprite'/Game/Papper_Assests/Main_Character_Combat/Frames/spriteshit__Sprite_Sheet___Foward_Attack_0_png.spriteshit__Sprite_Sheet___Foward_Attack_0_png'")
+   KeyFrames(1)=(Sprite="/Script/Paper2D.PaperSprite'/Game/Papper_Assests/Main_Character_Combat/Frames/spriteshit__Sprite_Sheet___Foward_Attack_1_png.spriteshit__Sprite_Sheet___Foward_Attack_1_png'")
+   KeyFrames(2)=(Sprite="/Script/Paper2D.PaperSprite'/Game/Papper_Assests/Main_Character_Combat/Frames/spriteshit__Sprite_Sheet___Foward_Attack_2_png.spriteshit__Sprite_Sheet___Foward_Attack_2_png'")
+   KeyFrames(3)=(Sprite="/Script/Paper2D.PaperSprite'/Game/Papper_Assests/Main_Character_Combat/Frames/spriteshit__Sprite_Sheet___Foward_Attack_3_png.spriteshit__Sprite_Sheet___Foward_Attack_3_png'")
+End Object

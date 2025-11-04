@@ -1,0 +1,6 @@
+Begin Object Class=/Script/Paper2D.PaperFlipbook Name="dadadadwddawdwa"
+   KeyFrames(0)=(Sprite="/Script/Paper2D.PaperSprite'/Game/Papper_Assests/Main_Character/Frames/dadadadwddawdwa_2006_ronaldinho_soccer__Sprite_Sheet___Idle_Down_png2.dadadadwddawdwa_2006_ronaldinho_soccer__Sprite_Sheet___Idle_Down_png2'")
+   KeyFrames(1)=(Sprite="/Script/Paper2D.PaperSprite'/Game/Papper_Assests/Main_Character/Frames/dadadadwddawdwa_2006_ronaldinho_soccer__Sprite_Sheet___Idle_Left_png2.dadadadwddawdwa_2006_ronaldinho_soccer__Sprite_Sheet___Idle_Left_png2'")
+   KeyFrames(2)=(Sprite="/Script/Paper2D.PaperSprite'/Game/Papper_Assests/Main_Character/Frames/dadadadwddawdwa_2006_ronaldinho_soccer__Sprite_Sheet___Idle_Right_png2.dadadadwddawdwa_2006_ronaldinho_soccer__Sprite_Sheet___Idle_Right_png2'")
+   KeyFrames(3)=(Sprite="/Script/Paper2D.PaperSprite'/Game/Papper_Assests/Main_Character/Frames/dadadadwddawdwa_2006_ronaldinho_soccer__Sprite_Sheet___Idle_up_png2.dadadadwddawdwa_2006_ronaldinho_soccer__Sprite_Sheet___Idle_up_png2'")
+End Object
